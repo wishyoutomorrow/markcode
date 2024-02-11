@@ -1,7 +1,7 @@
 <template lang="">
     <div class="flex h-full">
        <div class="flex flex-col items-center justify-center grow">
-            <h1 class="text-3xl font-bold mb-24">Welcome Monica Ngau!</h1>
+            <h1 class="text-3xl font-bold mb-24">Welcome Mark Code!</h1>
             <img src="../assets/images/car.png" alt="">
        </div>
 
